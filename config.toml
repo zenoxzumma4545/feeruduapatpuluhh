@@ -1,0 +1,4 @@
+baseURL = "https://curtainree55.vercel.app"
+languageCode = "en-us"
+title = "Light Curtains Safety"
+theme = "hugo-theme-minos"
